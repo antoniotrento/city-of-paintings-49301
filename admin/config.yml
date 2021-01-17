@@ -3,7 +3,6 @@ backend:
   branch: master
   repo: remotesynth/ragequit-tips
   open_authoring: true
-  branch: master # Branch to update (optional; defaults to master)
 media_folder: 'images'
 public_folder: /images
 publish_mode: editorial_workflow
