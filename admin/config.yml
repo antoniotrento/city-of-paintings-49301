@@ -1,7 +1,7 @@
 backend:
   name: github
   branch: master
-  repo: remotesynth/ragequit-tips
+  repo: antoniotrento/city-of-paintings-49301
   open_authoring: true
 media_folder: 'images'
 public_folder: /images
