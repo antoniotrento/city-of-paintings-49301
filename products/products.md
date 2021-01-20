@@ -8,7 +8,7 @@ default_thumbnail_image: /images/plant-4803128_1920.jpg
 default_original_image: /images/plant-4803128_1920.jpg
 featured: false
 order: 7
-category: europe
+category: category/europe.md
 section: Store
 ---
 This is a great sample to test sniopchart and stackbit
