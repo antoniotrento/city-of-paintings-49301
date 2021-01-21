@@ -76,3 +76,20 @@ If you need a hand, make sure to check the [Stackbit support page](https://stack
 ## Colophon
 
 Generated at `2021-01-17T19:45:45.355Z` by Stackbit version `0.3.42`.
+
+# Resources
+
+## Static CMS Starters
+
+- https://github.com/GraphCMS/gatsby-graphcms-ecommerce-starter
+  - https://graphcms.com/blog/delivering-a-diy-store-powered-by-a-headless-cms-for-ecommerce
+
+## Printful developer
+
+- https://www.printful.com/docs/products
+
+## Print shop articles
+
+- https://medium.com/learning-lab/6-how-i-learnt-how-to-build-an-automated-e-commerce-in-one-month-949ddf7e02c6
+
+- https://cloudsh.com/eleventy/headless_shopify_storefront.html
